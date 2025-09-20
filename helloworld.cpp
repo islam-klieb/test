@@ -1,1 +1,2 @@
 #includ<iostream>;
+#includ<math>;

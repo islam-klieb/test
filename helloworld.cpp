@@ -3,4 +3,6 @@
 
 int func(){};
 
+int myfun(){};
+
 int main(){};

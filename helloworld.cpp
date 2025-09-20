@@ -1,5 +1,6 @@
 #includ<iostream>;
 #includ<math>;
 
-int func(){}
+int func(){};
 
+int main(){};
